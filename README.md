@@ -1,4 +1,4 @@
-Olá, meu nome é Wallace T. Oliveira e sou estudante no Centro Universitário Padre Anchieta. No momento estou no processo para completar o curso de ciências da computação.
+Olá, meu nome é Wallace T. Oliveira e sou estudante no Centro Universitário Padre Anchieta. No momento estou no 5ºsemestre do curso de ciências da computação.
 
 Redes sociais: w1llacehh ou @w1llacehh
 📫 Você pode me contatar por: w1llacehh@gmail.com
