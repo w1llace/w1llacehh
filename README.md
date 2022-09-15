@@ -1,59 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
+#### Olá, meu nome é Wallace Oliveira e sou estudante no Centro Universitário Padre Anchieta. No momento estou no 5ºsemestre do curso de ciências da computação
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<br>
 
-<body>
-    <p>
-        #### Olá, meu nome é Wallace Oliveira e sou estudante no Centro Universitário Padre Anchieta. No momento estou
-        no 5ºsemestre do curso de ciências da computação
+#### Redes sociais: w1llacehh ou @w1llacehh 📫 Você pode me contatar por
 
-        <br>
-
-        #### Redes sociais: w1llacehh ou @w1llacehh 📫 Você pode me contatar por
-
-        <!-- 
+<!-- 
 Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk 
 -->
-        [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
-        ------------------------------------------------------
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
+------------------------------------------------------
 
-        #### Hi, I’m Wallace Oliveira and I am a student at the Padre Anchieta University Center. I am currently in the
-        process of completing a computer science course
+#### Hi, I’m Wallace Oliveira and I am a student at the Padre Anchieta University Center. I am currently in the process of completing a computer science course
 
-        <br>
+<br>
 
-        #### Social media: w1llacehh or @w1llacehh 📫 You can contact me from
+#### Social media: w1llacehh or @w1llacehh 📫 You can contact me from
 
-        [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
 
-        <!-- 
+<!-- 
 Site com o Github Stats e os temas :  https://github.com/anuraghazra/github-readme-stats 
 -->
-        <br>
-        <br>
-        <br>
-    <div align="center">
+<br>
+<br>
+<br>
+<div align="center">
 
-        ![Anurag's GitHub
-        stats](https://github-readme-stats.vercel.app/api?username=w1llacehh&show_icons=true&theme=tokyonight)
-        [![Top
-        Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1llacehh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-    <br>
-    <div border="static" align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1llacehh&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1llacehh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br>
+<div border="static" align="center">
 
-        ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-        )![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    </div>
-
-    </p>
-
-</body>
-
-</html>
+ ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+)![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
