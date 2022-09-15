@@ -17,7 +17,7 @@ Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk
 #### Social media: w1llacehh or @w1llacehh 📫 You can contact me from
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
-
+------------------------------------------------------
 <!-- 
 Site com o Github Stats e os temas :  https://github.com/anuraghazra/github-readme-stats 
 -->
