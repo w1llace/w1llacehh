@@ -15,7 +15,7 @@ Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk
 
 <br>
 
-#### Social media: <p><a src="https://beacons.ai/w1llacehh">w1llacehh</a></p> or @w1llacehh 📫 You can contact me from
+#### Social media: <p><a href="https://beacons.ai/w1llacehh">w1llacehh</a></p> or @w1llacehh 📫 You can contact me from
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
 
