@@ -24,12 +24,14 @@ Site com o Github Stats e os temas :  https://github.com/anuraghazra/github-read
 <br>
 <br>
 <br>
-<div align="center">
+
+<div text-align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1llacehh&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1llacehh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1llacehh)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-<br>
+
 <div border="static" align="center">
 
  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
