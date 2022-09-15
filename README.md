@@ -8,6 +8,7 @@
 Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk 
 -->
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
+
 ------------------------------------------------------
 
 #### Hi, I’m Wallace Oliveira and I am a student at the Padre Anchieta University Center. I am currently in the process of completing a computer science course
@@ -17,11 +18,13 @@ Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk
 #### Social media: w1llacehh or @w1llacehh 📫 You can contact me from
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
+
 ------------------------------------------------------
+
 <!-- 
 Site com o Github Stats e os temas :  https://github.com/anuraghazra/github-readme-stats 
 -->
-<br>
+
 <div text-align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1llacehh&show_icons=true&theme=tokyonight)
