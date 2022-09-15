@@ -2,7 +2,7 @@
 
 <br>
 
-#### Redes sociais: w1llacehh ou @w1llacehh 📫 Você pode me contatar por
+#### Redes sociais: <a href="https://beacons.ai/w1llacehh" target="_blank">w1llacehh</a> or <a href="https://beacons.ai/w1llacehh" target="_blank">@w1llacehh</a> 📫 Você pode me contatar por
 
 <!-- 
 Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk 
