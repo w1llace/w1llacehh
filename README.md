@@ -1,16 +1,3 @@
-Olá, meu nome é Wallace T. Oliveira e sou estudante no Centro Universitário Padre Anchieta. No momento estou no 5ºsemestre do curso de ciências da computação.
-
-Redes sociais: w1llacehh ou @w1llacehh
-📫 Você pode me contatar por: w1llacehh@gmail.com
-
-------------------------------------------------------
-
-Hi, I’m Wallace T. Oliveira and I am a student at the Padre Anchieta University Center. I am currently in the process of completing a computer science course.
-
-Social media: w1llacehh or @w1llacehh
-📫 You can contact me from: w1llacehh@gmail.com
-
-
 ### Olá, meu nome é Wallace T. Oliveira e sou estudante no Centro Universitário Padre Anchieta. No momento estou no 5ºsemestre do curso de ciências da computação
 
 <br>
@@ -23,7 +10,7 @@ Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk
 <div align="center">
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)</div>
-
+------------------------------------------------------
 ### Hi, I’m Wallace T. Oliveira and I am a student at the Padre Anchieta University Center. I am currently in the process of completing a computer science course
 
 <br>
