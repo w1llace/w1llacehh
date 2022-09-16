@@ -2,12 +2,13 @@
 
 <br>
 
-#### Redes sociais: <a href="https://beacons.ai/w1llacehh" target="_blank">w1llacehh</a> or <a href="https://beacons.ai/w1llacehh" target="_blank">@w1llacehh</a> 📫 Você pode me contatar por
+#### Redes sociais: <a href="https://beacons.ai/w1llacehh" target="_blank">w1llacehh</a> or <a href="https://beacons.ai/w1llacehh" target="_blank">@w1llacehh</a> 📫 Você pode me contatar por <a href="mailto:w1llacehh@gmail.com" target="_blank">gmail</a>
 
 <!-- 
 Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk 
--->
+
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
+-->
 
 ------------------------------------------------------
 
@@ -17,8 +18,9 @@ Site com as badges : https://dev.to/envoy_/150-badges-for-github-pnk
 
 #### Social media: <a href="https://beacons.ai/w1llacehh" target="_blank">w1llacehh</a> or <a href="https://beacons.ai/w1llacehh" target="_blank">@w1llacehh</a> 📫 You can contact me from <a href="mailto:w1llacehh@gmail.com" target="_blank">gmail</a>
 
+<!--
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w1llacehh@gmail.com)
-
+-->
 ------------------------------------------------------
 
 <!-- 
